@@ -1,4 +1,4 @@
-# EXPERIMENT 6
+# EXERCISE 6
 
 ## OBJECTIVE
 Load the Indian StockMarkets dataset from the dataset package and 
