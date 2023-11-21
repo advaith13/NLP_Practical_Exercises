@@ -1,5 +1,5 @@
 
-# EXPERIMENT 7
+# EXERCISE 7
 ## OBJECTIVE
 Create a RNN model to predict if the movie review is positive or negative. First load the “IMDB movie review” dataset. This dataset has 50k reviews of different movies. It is a benchmark dataset used in text-classification to train and test the Machine Learning and Deep Learning model.
 Perform following operations to build the RNN model for text classification
