@@ -2,7 +2,7 @@
 NLP Hands-on
 
 Exercises Links:
-- [Excercise 1](https://github.com/advaith13/NLP_Practical_Exercises/blob/main/Excercise1.md)
+- [Excercise 1](https://github.com/advaith13/NLP_Practical_Exercises/blob/main/Exercise1.md)
 - [Excercise 2](https://github.com/advaith13/NLP_Practical_Exercises/blob/main/Excercise2.md)
 - [Excercise 3](https://github.com/advaith13/NLP_Practical_Exercises/blob/main/Excercise3.md)
 - [Excercise 4](https://github.com/advaith13/NLP_Practical_Exercises/blob/main/Excercise4.md)
